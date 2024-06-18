@@ -1,7 +1,7 @@
 import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import React, { useState } from 'react';
 
-// Form validation
+// Form validation 
 import * as Yup from 'yup';
 import { Formik } from 'formik';
 import BouncyCheckbox from "react-native-bouncy-checkbox";
